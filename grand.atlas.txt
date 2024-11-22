@@ -1,0 +1,22 @@
+grand.webp
+size:1252,1148
+filter:Linear,Linear
+pma:true
+scale:0.3
+Слой 1
+bounds:2,341,570,805
+Слой 2
+bounds:874,307,182,326
+rotate:90
+Слой 3
+bounds:2,2,337,475
+rotate:90
+Слой 4
+bounds:741,62,249,243
+Слой 5
+bounds:874,491,376,655
+Слой 6
+bounds:574,364,782,298
+rotate:90
+Слой 7
+bounds:479,64,260,275

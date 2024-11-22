@@ -1,0 +1,35 @@
+coin.webp
+size:1964,1140
+filter:Linear,Linear
+pma:true
+LightSweep1
+bounds:1786,811,128,128
+pnssagegg
+bounds:2,2,1134,904
+offsets:0,124,1134,1134
+rotate:90
+shockwave_55
+bounds:908,651,485,876
+offsets:27,75,1024,1024
+rotate:90
+sparkleflare3
+bounds:1786,724,85,86
+offsets:25,20,128,128
+rotate:90
+Левая Лапа
+bounds:1470,15,336,469
+rotate:90
+Левая Часть
+bounds:1209,110,259,539
+offsets:269,0,528,539
+Монета
+bounds:1786,966,171,170
+Правая Часть
+bounds:908,108,299,541
+offsets:0,0,533,541
+Слой 1
+bounds:1470,353,296,489
+rotate:90
+бок
+bounds:1786,941,23,169
+rotate:90

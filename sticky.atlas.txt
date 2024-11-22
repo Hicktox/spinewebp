@@ -1,0 +1,36 @@
+sticky.webp
+size:1900,412
+filter:Linear,Linear
+pma:true
+scale:0.3
+LightSweep
+bounds:1352,138,38,38
+luchik
+bounds:1832,227,61,64
+offsets:2,2,65,68
+rotate:90
+mol2/1
+bounds:1404,164,426,124
+mol2/2
+bounds:944,254,448,156
+mol2/3
+bounds:2,2,542,152
+mol2/4
+bounds:546,6,523,148
+mol2/5
+bounds:1394,290,500,120
+mol2/6
+bounds:944,178,458,74
+mol2/7
+bounds:1352,70,379,66
+Внутренняя Часть Крыла
+bounds:629,158,313,252
+Красные Глаза
+bounds:1733,10,152,151
+rotate:90
+Пальцы
+bounds:1071,6,170,279
+rotate:90
+Посох
+bounds:2,156,254,625
+rotate:90

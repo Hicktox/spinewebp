@@ -1,0 +1,244 @@
+pump.wep
+size:2048,1756
+filter:Linear,Linear
+pma:true
+scale:0.3
+Smoke 067 Up/1
+bounds:1626,678,300,300
+Smoke 067 Up/10
+bounds:1209,611,300,300
+Smoke 067 Up/11
+bounds:1511,376,300,300
+Smoke 067 Up/12
+bounds:2,2,300,300
+Smoke 067 Up/13
+bounds:2,309,300,300
+Smoke 067 Up/14
+bounds:2,616,300,300
+Smoke 067 Up/15
+bounds:358,779,300,300
+Smoke 067 Up/16
+bounds:660,616,300,300
+Smoke 067 Up/17
+bounds:304,477,300,300
+Smoke 067 Up/18
+bounds:304,2,300,300
+Smoke 067 Up/19
+bounds:606,2,300,300
+Smoke 067 Up/2
+bounds:606,309,300,300
+Smoke 067 Up/20
+bounds:908,2,300,300
+Smoke 067 Up/21
+bounds:908,309,300,300
+Smoke 067 Up/22
+bounds:1210,2,300,300
+Smoke 067 Up/23
+bounds:1512,2,300,300
+burst/1
+bounds:1719,1599,6,18
+offsets:3,5,12,31
+rotate:90
+burst/10
+bounds:1719,1591,6,18
+offsets:3,5,12,31
+rotate:90
+burst/11
+bounds:1719,1583,6,18
+offsets:3,5,12,31
+rotate:90
+burst/12
+bounds:1719,1575,6,18
+offsets:3,5,12,31
+rotate:90
+burst/13
+bounds:1719,1567,6,18
+offsets:3,5,12,31
+rotate:90
+burst/14
+bounds:1719,1559,6,18
+offsets:3,5,12,31
+rotate:90
+burst/15
+bounds:1719,1551,6,18
+offsets:3,5,12,31
+rotate:90
+burst/16
+bounds:1719,1543,6,18
+offsets:3,5,12,31
+rotate:90
+burst/17
+bounds:1719,1535,6,18
+offsets:3,5,12,31
+rotate:90
+burst/18
+bounds:1719,1527,6,18
+offsets:3,5,12,31
+rotate:90
+burst/19
+bounds:1719,1519,6,18
+offsets:3,5,12,31
+rotate:90
+burst/2
+bounds:1719,1511,6,18
+offsets:3,5,12,31
+rotate:90
+burst/3
+bounds:1719,1503,6,18
+offsets:3,5,12,31
+rotate:90
+burst/4
+bounds:1719,1495,6,18
+offsets:3,5,12,31
+rotate:90
+burst/5
+bounds:1719,1487,6,18
+offsets:3,5,12,31
+rotate:90
+burst/6
+bounds:1719,1479,6,18
+offsets:3,5,12,31
+rotate:90
+burst/7
+bounds:1124,1506,6,18
+offsets:3,5,12,31
+burst/8
+bounds:1124,1486,6,18
+offsets:3,5,12,31
+burst/9
+bounds:1124,1466,6,18
+offsets:3,5,12,31
+mol1/1
+bounds:1650,1321,74,97
+offsets:2,2,79,101
+mol1/2
+bounds:1511,765,146,111
+offsets:2,2,149,114
+rotate:90
+mol1/3
+bounds:1928,652,152,118
+offsets:1,2,154,122
+rotate:90
+mol1/4
+bounds:1088,989,150,120
+offsets:2,2,153,124
+rotate:90
+mol1/5
+bounds:962,768,148,118
+offsets:1,2,150,122
+rotate:90
+mol1/6
+bounds:1088,892,119,95
+offsets:0,0,120,95
+mol2/1
+bounds:679,1245,426,124
+mol2/2
+bounds:679,1371,443,153
+offsets:0,0,448,156
+mol2/3
+bounds:679,1602,538,151
+offsets:0,0,542,152
+mol2/4
+bounds:1219,1607,519,146
+offsets:0,0,523,148
+mol2/5
+bounds:1219,1485,498,120
+offsets:0,0,500,120
+mol2/6
+bounds:679,1526,457,74
+offsets:0,0,458,74
+mol2/7
+bounds:1650,1253,379,66
+pnssagegg
+bounds:1650,980,340,271
+offsets:0,37,340,340
+Белая Часть
+bounds:1650,1420,63,67
+rotate:90
+Волоски
+bounds:1726,1349,64,47
+rotate:90
+Глаза
+bounds:1825,1357,56,46
+rotate:90
+Голова
+bounds:1813,473,177,193
+rotate:90
+Клюв
+bounds:178,928,178,151
+Левая Бровь
+bounds:1869,1322,33,40
+rotate:90
+Левая Нога
+bounds:1813,304,191,167
+Левое Крыло
+bounds:679,918,407,325
+Молнии В Глазах
+bounds:1726,1321,26,41
+rotate:90
+Памперсы
+bounds:1928,806,118,172
+Перья1
+bounds:1107,1198,134,101
+rotate:90
+Перья2
+bounds:1138,1437,163,77
+rotate:90
+Правая Бровь
+bounds:1775,1355,58,48
+rotate:90
+Правая Нога
+bounds:2,919,160,174
+rotate:90
+Правое Крыло
+bounds:1217,1160,431,323
+Слой 1
+bounds:1124,1334,64,101
+Слой 2
+bounds:1088,1141,55,127
+rotate:90
+Слой 3
+bounds:1825,1321,34,42
+rotate:90
+Тело
+bounds:1217,913,245,407
+offsets:0,0,245,412
+rotate:90
+Хвост
+bounds:1740,1415,338,306
+rotate:90
+Цветовой тон_Насыщенность 1
+bounds:2,1081,675,672
+offsets:8,22,694,705
+
+pump2.webp
+size:1512,908
+filter:Linear,Linear
+pma:true
+scale:0.3
+Smoke 067 Up/24
+bounds:2,606,300,300
+Smoke 067 Up/25
+bounds:2,304,300,300
+Smoke 067 Up/26
+bounds:304,606,300,300
+Smoke 067 Up/27
+bounds:2,2,300,300
+Smoke 067 Up/28
+bounds:304,304,300,300
+Smoke 067 Up/29
+bounds:606,606,300,300
+Smoke 067 Up/3
+bounds:304,2,300,300
+Smoke 067 Up/4
+bounds:606,304,300,300
+Smoke 067 Up/5
+bounds:908,606,300,300
+Smoke 067 Up/6
+bounds:606,2,300,300
+Smoke 067 Up/7
+bounds:908,304,300,300
+Smoke 067 Up/8
+bounds:1210,606,300,300
+Smoke 067 Up/9
+bounds:908,2,300,300
